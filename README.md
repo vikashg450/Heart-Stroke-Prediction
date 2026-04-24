@@ -60,4 +60,4 @@ python -m streamlit run app.py
 - `HeartdiseaseFinal.ipynb`: Jupyter Notebook containing data exploration, model training, and evaluation steps.
 
 ## Author 👤
-Created by **Akarsh**.
+Created by **Vikash kumar**.
