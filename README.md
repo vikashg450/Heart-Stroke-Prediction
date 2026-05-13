@@ -2,14 +2,14 @@
 
 > A machine learning web application that predicts cardiovascular disease risk using K-Nearest Neighbors (KNN) — built with Streamlit for real-time, interactive health assessments.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://your-app-name.streamlit.app](https://heart-stroke-prediction-dertr7onttaxf8qp8wbgsb.streamlit.app/))
-
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://heart-stroke-prediction-dertr7onttaxf8qp8wbgsb.streamlit.app/)
 ---
 
 ## 📸 Preview
 
 <!-- Add a screenshot of your app here -->
-> _Add a screenshot of your deployed Streamlit app here_
+<img width="1864" height="830" alt="image" src="https://github.com/user-attachments/assets/de3c9c8d-c4fa-42c5-87c0-a0e0402b15d3" />
+
 
 ---
 
@@ -105,20 +105,6 @@ python -m streamlit run app.py
 
 The app will open at `http://localhost:8501` in your browser.
 
----
-
-## ☁️ Deploy on Streamlit Cloud
-
-1. Push this repo to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io) and sign in
-3. Click **New app** → select your repo and set `app.py` as the main file
-4. Click **Deploy** — your app will be live in minutes!
-
-Update the badge at the top of this README with your live URL:
-
-```markdown
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
-```
 
 ---
 
